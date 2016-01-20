@@ -37,6 +37,7 @@ public class MetodosArrayAlumnos {
         }
        }
        
+       
        public void mentomay(){
            for (int i=0;i<numelementos-1;i++)
                for (int j=i+1;j<numelementos;j++)
